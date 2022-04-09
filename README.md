@@ -1,5 +1,3 @@
-version: 1.2.3
-
 ## Environment variables
 
 - MONGO_URL (host[:port]/db)
